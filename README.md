@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Joseph, I'm 17 years old, and I program all over the place except for hardware.
+
 - 🔭 I’m currently working on:
   - Hackathon scraper
   - Set in Sprig
@@ -10,7 +12,8 @@
   - ML
 - 💬 Ask me about:
   - Python Advent of Code / LeetCode templates
-  - Anything but hardware
+  - Anything programming but hardware
+  - Mathy stuff
 - 📫 How to reach me:
   - Discord: `1000000007`
   - Email: `github_username + '91@gmail.com'`
