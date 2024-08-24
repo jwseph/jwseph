@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 |  :-:   |  :-:  |
 | **👨‍💻 Competitive Programming / Algorithms** | [![C++](https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/) |
 
+Also top .05% on [LeetCode](https://leetcode.com/u/jwseph/)
+
 No code no life :D
