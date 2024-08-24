@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 |  :-:   |  :-:  |
 | **👨‍💻 Competitive Programming / Algorithms** | [![Python](https://img.shields.io/badge/-Python-3476ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/) |
 
-Also top .05% on [LeetCode](https://leetcode.com/u/jwseph/) and USACO Platinum and AIME Qual. Placed as high as 10th on one part of Advent of Code; looking to do better this Dec.
+Also top .05% on [LeetCode](https://leetcode.com/u/jwseph/) and USACO Platinum and AIME Qual. Trying to place on Advent of Code leaderboard this Dec.
 
 No code no life :D
