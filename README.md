@@ -45,7 +45,7 @@ Competition stats
 - Top .05% on [LeetCode](https://leetcode.com/u/jwseph/)
 - USACO Platinum
 - AIME Qualifier
-- Goal: Place top 100 overall on upcoming 2024 Advent of Code
+- Goal: Place top 100 overall in upcoming 2024 Advent of Code
 
 > [!WARNING]
 > Motto: No code, no life
