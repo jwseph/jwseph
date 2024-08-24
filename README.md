@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+No code no life
 
 | Skills | Tools |
 |  :-:   |  :-:  |
