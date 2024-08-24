@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 ## Development tools
 | Skills | Tools |
 |  :-:   |  :-:  |
@@ -29,4 +28,4 @@ Here are some ideas to get you started:
 
 Also top .05% on [LeetCode](https://leetcode.com/u/jwseph/) and USACO Platinum and AIME Qual. Trying to place on Advent of Code leaderboard this Dec.
 
-No code no life :D
+Motto: No code, no life
