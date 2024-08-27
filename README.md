@@ -13,7 +13,7 @@ My name is Joseph, I'm 17 years old, and I program all over the place except for
 - 💬 Ask me about:
   - Python Advent of Code / LeetCode templates
   - Anything programming but hardware
-  - Mathy stuff
+  - Mathy stuff :D
 - 📫 How to reach me:
   - Discord: `1000000007`
   - Email: `github_username + '91@gmail.com'`
