@@ -41,7 +41,7 @@ My name is Joseph, I'm 17 years old, and I program all over the place except for
 | **👨‍💻 Competitive Programming** | [![Python](https://img.shields.io/badge/-Python-3476ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/-C++-00589d?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/) [![Java](https://img.shields.io/badge/-Java-f89917?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com/) |
 | **🕷️ Webscraping** | [![Selenium](https://img.shields.io/badge/-Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-4e342e?style=for-the-badge&logoColor=white)](https://beautiful-soup-4.readthedocs.io/en/latest/) [![aiohttp](https://img.shields.io/badge/-aiohttp-2c5bb4?style=for-the-badge&logo=aiohttp&logoColor=white)](https://docs.aiohttp.org/en/stable/) |
 
-Competition stats
+## Competition stats
 - Top .05% on [LeetCode](https://leetcode.com/u/jwseph/)
 - USACO Platinum
 - AIME Qualifier
