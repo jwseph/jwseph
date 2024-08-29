@@ -3,7 +3,7 @@
 My name is Joseph, I'm 17 years old, and I program all over the place except for hardware.
 
 - 🔭 I’m currently working on:
-  - AI Chat / assistant plugin for hotel websites
+  - Human fallback for GPT plugin for hotel websites
   - Hackathon scraper
   - Set in Sprig
   - Habitat - habit tracker app where habits are plants
