@@ -3,17 +3,16 @@
 My name is Joseph, I'm 17 years old, and I program all over the place except for hardware.
 
 - 🔭 I’m currently working on:
-  - Human fallback for GPT plugin for hotel websites
+  - Website chat assistant for hotels
+  - CS A autograder
   - Hackathon scraper
-  - Set in Sprig
-  - Habitat - habit tracker app where habits are plants
 - 🌱 I’m currently learning:
   - Next
   - ML
 - 💬 Ask me about:
-  - Python Advent of Code / LeetCode templates
-  - Anything programming but hardware
+  - Programming ideas
   - Mathy stuff :D
+  - Python Advent of Code / LeetCode templates
 - 📫 How to reach me:
   - Discord: `1000000007`
   - Email: `github_username + '91@gmail.com'`
