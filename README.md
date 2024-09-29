@@ -2,7 +2,7 @@
 
 My name is Joseph, I'm 17 years old, and I program all over the place except for hardware.
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently building:
   - Website chat assistant for hotels
   - CS A autograder
   - Hackathon scraper
