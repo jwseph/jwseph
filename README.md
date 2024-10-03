@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Joseph, I'm 17 years old, and I program all over the place except for hardware.
+My name is Joseph, I'm currently 17 years old, and I program all over the place except for hardware.
 
 - 🔭 I’m currently building:
   - Website chat assistant for hotels
