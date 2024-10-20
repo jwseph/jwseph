@@ -44,7 +44,7 @@ My name is Joseph, I'm currently 17 years old, and I program all over the place 
 - Top .05% on [LeetCode](https://leetcode.com/u/jwseph/)
 - USACO Platinum
 - AIME Qualifier
-- Goal: Place top 100 overall in upcoming 2024 Advent of Code
+- Goal: Place top 100 overall in upcoming 2024 Advent of Code (unlikely!)
 
 > [!WARNING]
 > Motto: No code, no life
