@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Joseph, I'm currently 17 years old, and I program all over the place except for hardware.
+Hi! I'm Joseph. I'm obsessed with sci-fi and anything cool, including thinking about math, building projects for friends, helping people learn, and so on. Currently, I'm fascinated by machine learning advancements and startup culture.
 
 - 🔭 I’m currently building:
   - Website chat assistant for hotels
