@@ -7,7 +7,7 @@
 - 💬 Ask me about:
   - Programming ideas
   - Math
-  - Python Advent of Code / LeetCode templates
+  - Advent of Code / LeetCode
 - 📫 How to reach me:
   - Discord: `1000000007`
   - Email: `github_username + '91@gmail.com'`
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Development tools
+## Tools
 | Skills | Tools |
 |  :-   |  :-  |
 | **🌏 Web** | [![Next.js](https://img.shields.io/badge/-Next.js-080808?style=for-the-badge&logo=next.js&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-017fa5?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) [![TailwindCSS](https://img.shields.io/badge/-Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![jQuery](https://img.shields.io/badge/-jQuery-0865a7?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/) |
