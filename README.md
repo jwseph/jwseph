@@ -6,7 +6,7 @@
   - ML
 - 💬 Ask me about:
   - Programming ideas
-  - Mathy stuff :D
+  - Math
   - Python Advent of Code / LeetCode templates
 - 📫 How to reach me:
   - Discord: `1000000007`
@@ -39,7 +39,6 @@
 - Top .05% on [LeetCode](https://leetcode.com/u/jwseph/)
 - USACO Platinum
 - AIME Qualifier
-- Goal: Place top 100 overall in upcoming 2024 Advent of Code (unlikely!)
 
 > [!WARNING]
 > Motto: No code, no life
