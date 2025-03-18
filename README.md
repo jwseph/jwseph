@@ -1,13 +1,8 @@
 ## Hi there 👋
 
-Hi! I'm Joseph. I'm obsessed with sci-fi and anything cool, including thinking about math, building projects for friends, helping people learn, and so on. Currently, I'm fascinated by machine learning advancements and startup culture.
-
 - 🔭 I’m currently building:
   - Website chat assistant for hotels
-  - CS A autograder
-  - Hackathon scraper
 - 🌱 I’m currently learning:
-  - Next
   - ML
 - 💬 Ask me about:
   - Programming ideas
