@@ -1,8 +1,6 @@
 I code sometimes
 
-email: `github_user + 7*13 + "@gmail.com"`
-
-discord: `1000000007`
+`github_user + 7*13 + "@gmail.com"`
 
 <!--
 - 🔭 I’m currently building:
